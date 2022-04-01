@@ -1,7 +1,8 @@
 function main(){
 
-    var myString = "FirstLine\n\tSecondLine\nThirdLine";
-    return myString;
+        var myString = "Concatenation is the process of appending ";
+        myString += "one string to the end of another string";
+        return myString;
 
 }
 
